@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govind Shakya.
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning competative programming and web development. 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning backend development. 
 - 📫 How to reach me  https://www.linkedin.com/in/govind-shakya-56344a205/
 
 <!---
